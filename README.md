@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0013-roman-to-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0013-roman-to-integer) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
