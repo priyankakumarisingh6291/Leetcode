@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
