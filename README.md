@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0048-rotate-image) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0048-rotate-image) |
 | [0704-binary-search](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
