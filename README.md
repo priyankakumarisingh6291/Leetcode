@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0048-rotate-image) |
+| [0119-pascals-triangle-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0704-binary-search](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
