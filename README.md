@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
