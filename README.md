@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0048-rotate-image) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
