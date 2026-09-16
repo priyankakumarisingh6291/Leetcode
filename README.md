@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0704-binary-search) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0680-valid-palindrome-ii) |
