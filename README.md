@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
