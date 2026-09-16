@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/priyankakumarisingh6291/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
